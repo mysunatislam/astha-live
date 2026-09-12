@@ -21,4 +21,4 @@ Open the app directly in your browser:
 ## 🔒 Source Code & License
 This repository serves as the public web distribution mirror. The primary development repository is privately maintained.
 
-Copyright © 2026 Sunat Islam. All rights reserved.
+Copyright © 2026 Mysunat Islam. All rights reserved.
