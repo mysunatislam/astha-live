@@ -1,0 +1,14 @@
+{
+  "source_commit": "70826690020c90c46945b6cf88ccbc2f9a941dcc",
+  "source_dirty": false,
+  "sha256": {
+    "index.html": "ed5f156e7bc2c844711f34ae2cbe04b1b7e45e43af5d26ee78b1ac282d140b65",
+    "backend.js": "4a5d9c895e93564867b968f5614d9f3dfcbd92b73b2afdb6201b8921f195980b",
+    "config.js": "dcdaf2db2a1742e98b6ba9b3c725a9e681dae1e79e5c7e79b9b5a052cf7841e6",
+    "sw.js": "1c2b36dc54a38c5ec13d79368d065fdf10e90232e9e9fd37120e8cde27e2c6d0",
+    "manifest.webmanifest": "48e6322f1a67a6c032ecd71ca031652a417b453d02852b0912603fb6b3eef420",
+    "icons/icon-192.png": "0b88e1fa3f7d7ff361b6ee3c5431e4bfb1bfe29ac534c016eb9642e9cfed16e5",
+    "icons/icon-512.png": "af686548e6383f79073fcf7430e0e1ee38820723ec2556c304bf1d1fbcc3bc29",
+    "models/yolo26n.onnx": "f009a615e328d6328a10102de7666a24a8c03593c9a46bed02daa1b7783bdc5f"
+  }
+}
