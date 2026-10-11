@@ -1,0 +1,10 @@
+# Preserve source-manifest byte hashes across Windows and Unix checkouts.
+/index.html text eol=lf
+/backend.js text eol=lf
+/config.js text eol=lf
+/sw.js text eol=lf
+/manifest.webmanifest text eol=lf
+/release-manifest.json text eol=lf
+/icons/*.png binary
+/models/*.onnx binary
+/downloads/*.apk binary
